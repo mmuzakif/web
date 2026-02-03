@@ -1,0 +1,20 @@
+.div_h1{
+   display: flex;
+   justify-content: center;
+
+}
+.jadwal1{
+  /*border: solid black 1px;*/
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hu_style{
+ font-weight: bold;
+ font-style: oblique;
+ font-family: 'Times New Roman', Times, serif;
+ 
+
+}
