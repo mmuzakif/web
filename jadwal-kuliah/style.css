@@ -1,9 +1,27 @@
 .div_h1{
    display: flex;
    justify-content: center;
+   ;
+
+}
+.mother_div{
+  display : flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+
+
+
 
 }
 .jadwal1{
+  /*border: solid black 1px;*/
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.jadwal2{
   /*border: solid black 1px;*/
   display: flex;
   justify-content: center;
@@ -15,6 +33,7 @@
  font-weight: bold;
  font-style: oblique;
  font-family: 'Times New Roman', Times, serif;
+ color: red;
  
 
 }
