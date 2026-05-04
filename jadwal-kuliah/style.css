@@ -1,17 +1,22 @@
 .div_h1{
    display: flex;
    justify-content: center;
-   ;
+   /*border: solid black 1px;*/
+   
+   
 
 }
 .mother_div{
   display : flex;
   flex-direction: row;
   justify-content: space-evenly;
-
-
-
-
+  /*border: solid black 1px;*/
+}
+.mother_div2{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+  /*border: solid black 1px;*/
 
 }
 .jadwal1{
@@ -22,11 +27,19 @@
   text-align: center;
 }
 .jadwal2{
+   /*border: solid black 1px;*/
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.jadwal3{
   /*border: solid black 1px;*/
   display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
+
 }
 
 .hu_style{
